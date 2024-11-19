@@ -2,11 +2,16 @@
 
 ## Milestone 1: Ideation and High-Level Description
 ### Idea 1
-d
+weather prediction
+interactive, can adjust different variables and produce different outcomes
 
 ### Idea 2
+student sleep patterns
+analyze and visualize
 
 ### Idea 3
+electric vehicle population
+analyze and visualize
 
 ## Milestone 2:  Data and a Plan
 
