@@ -18,7 +18,7 @@ Design an interactive weather prediction tool that allows users to adjust differ
 Analyze and visualize the sleep patterns of students, exploring correlations with factors like academic performance, stress levels, and extracurricular activities. The goal is to present insights that could help improve student well-being and academic outcomes.
 
 #### Data and Datasets
-- **Primary Sources**: Data could come from surveys, wearable sleep trackers, or self-reported logs from students. Existing datasets like the Sleep-EDF Database may also be relevant.
+- **Primary Sources**: Kaggle
 - **Data Requirements**: Information on sleep duration, quality, and contributing factors (like study habits and physical activity). The data may require normalization and feature engineering.
 
 #### ML Techniques
@@ -30,7 +30,7 @@ Analyze and visualize the sleep patterns of students, exploring correlations wit
 Create an analysis and visualization tool that explores the growth of electric vehicle (EV) populations across different regions or one region. The tool could highlight trends, identify hotspots of EV adoption, and explore the impact of policies and infrastructure on EV growth.
 
 #### Data and Datasets
-- **Primary Sources**: Open datasets from government agencies (e.g., Department of Energy), EV registration databases, and industry reports.
+- **Primary Sources**: Kaggle, open datasets from government agencies (e.g., Department of Energy), EV registration databases, and industry reports.
 - **Data Requirements**: Data on EV registrations, charging infrastructure, and demographic information. Data preprocessing will involve aggregating information from various sources.
 
 #### ML Techniques
