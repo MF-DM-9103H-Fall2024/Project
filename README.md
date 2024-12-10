@@ -43,7 +43,7 @@ Proceeding with Idea 1, this project draws inspiration from the Japanese animate
   <img width="300" src="https://github.com/user-attachments/assets/3e5529f1-d540-4984-9e27-0d05a56c8b6a">
 </p>
 
-The dataset obtained from NOAA provides daily weather summaries for the period between December 1, 2022, and December 1, 2024. For this phase of the project, I focused on conducting initial data exploration and cleaning. This process included examining the dataset’s structure, identifying missing values, and selecting key features relevant to the project.
+The dataset obtained from NOAA provides daily weather summaries for the period between December 1, 2022, and December 1, 2024. For this phase of the project, I focused on conducting initial data exploration and cleaning. This process included examining the dataset’s structure, identifying missing values, and selecting key features relevant to the project. The data is collected from multiple stations across NYC, resulting in variations in the number of variables recorded at each station.
 
 <p align="center">
   <img width="900" src="https://github.com/user-attachments/assets/f8fa78c7-8d8c-41c6-8521-8d11e1055dc4">
