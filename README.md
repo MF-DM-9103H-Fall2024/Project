@@ -45,9 +45,13 @@ Proceeding with Idea 1, this project draws inspiration from the Japanese animate
 
 The dataset obtained from NOAA provides daily weather summaries for the period between December 1, 2022, and December 1, 2024. For this phase of the project, I focused on conducting initial data exploration and cleaning. This process included examining the dataset’s structure, identifying missing values, and selecting key features relevant to the project.
 
-<img width="902" alt="Screenshot 2024-12-10 at 11 01 04 AM" src="https://github.com/user-attachments/assets/f8fa78c7-8d8c-41c6-8521-8d11e1055dc4">
+<p align="center">
+  <img width="900" src="https://github.com/user-attachments/assets/f8fa78c7-8d8c-41c6-8521-8d11e1055dc4">
+</p>
 
-<img width="903" alt="Screenshot 2024-12-10 at 10 57 52 AM" src="https://github.com/user-attachments/assets/cc719d80-4ec1-430a-b11a-72798e700869">
+<p align="center">
+  <img width="900" src="https://github.com/user-attachments/assets/cc719d80-4ec1-430a-b11a-72798e700869">
+</p>
 
 ## Milestone 3:  Initial Modeling/Programming
 
