@@ -67,10 +67,10 @@ The dataset obtained from NOAA provides daily weather summaries for the period b
   	•	Scatter Plot: Wind Speed vs. Precipitation
 
 ### Preliminary Modeling
-	- Baseline Model:
+	Baseline Model:
 	• 	A Linear Regression model was trained to predict TMAX (maximum temperature) using PRCP, TMIN, and SNOW.
 	•	Achieved a Mean Squared Error (MSE) of 0.1583.
-	- Refined Model:
+	Refined Model:
 	•	A Random Forest Regressor was implemented, capturing non-linear relationships between features.
 
 ## Milestone 4:  Tuning and Adjusting
