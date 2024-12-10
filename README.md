@@ -39,7 +39,9 @@ Create an analysis and visualization tool that explores the growth of electric v
 ## Milestone 2:  Data and a Plan
 Proceeding with Idea 1, this project draws inspiration from the Japanese animated movie Weathering with You, where the protagonist has the ability to control the weather, transforming rainy days into sunny ones in Japan—a region known for frequent rainfall. Similarly, New York City experiences significant precipitation, with an average of 148 days of rain or snow annually, according to Google. This project aims to design an interactive interface that simulates transforming rainy and snowy days into more favorable weather conditions, offering users an engaging way to explore the impact of weather changes.
 
-![Weathering_with_You_Poster](https://github.com/user-attachments/assets/3e5529f1-d540-4984-9e27-0d05a56c8b6a)
+<p align="center">
+<img width="200" src="![Weathering_with_You_Poster](https://github.com/user-attachments/assets/3e5529f1-d540-4984-9e27-0d05a56c8b6a)">
+</p>
 
 The dataset obtained from NOAA provides daily weather summaries for the period between December 1, 2022, and December 1, 2024. For this phase of the project, I focused on conducting initial data exploration and cleaning. This process included examining the dataset’s structure, identifying missing values, and selecting key features relevant to the project.
 
