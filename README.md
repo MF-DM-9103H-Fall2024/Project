@@ -37,6 +37,7 @@ Create an analysis and visualization tool that explores the growth of electric v
 - **Modeling**: Use time series analysis to track growth trends and geospatial visualization techniques to map EV distribution. Regression models could explore factors influencing EV adoption.
 
 ## Milestone 2:  Data and a Plan
+Proceeding with Idea 1, this project draws inspiration from the Japanese animated movie Weathering with You, where the protagonist has the ability to control the weather, transforming rainy days into sunny ones in Japan—a region known for frequent rainfall. Similarly, New York City experiences significant precipitation, with an average of 148 days of rain or snow annually, according to Google. This project aims to design an interactive interface that simulates transforming rainy and snowy days into more favorable weather conditions, offering users an engaging way to explore the impact of weather changes.
 
 ## Milestone 3:  Initial Modeling/Programming
 
