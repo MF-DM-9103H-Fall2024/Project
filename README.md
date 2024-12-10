@@ -54,6 +54,24 @@ The dataset obtained from NOAA provides daily weather summaries for the period b
 </p>
 
 ## Milestone 3:  Initial Modeling/Programming
+### Data Preprocessing
+	•	Selected Relevant Features: DATE, PRCP, SNOW, SNWD, TMAX, TMIN, AWND, WDF2, WESF, WESD.
+	•	Handling Missing Data: Missing values were filled with the median of each column to ensure consistency.
+	•	Normalization: All numerical features were normalized using StandardScaler to facilitate better modeling and visualization.
+
+### Data Visualization
+  •	Scatter plot: Temperature vs. Precipitation
+	•	Line Plot: Temperature Trends Over Time
+	•	Bar Plot: Average Monthly Precipitation
+  •	Heatmap: Correlation Between Variables
+  •	Scatter Plot: Wind Speed vs. Precipitation
+
+### Preliminary Modeling
+- Baseline Model:
+	• A Linear Regression model was trained to predict TMAX (maximum temperature) using PRCP, TMIN, and SNOW.
+	•	Achieved a Mean Squared Error (MSE) of 0.1583.
+- Refined Model:
+	•	A Random Forest Regressor was implemented, capturing non-linear relationships between features.
 
 ## Milestone 4:  Tuning and Adjusting
 
