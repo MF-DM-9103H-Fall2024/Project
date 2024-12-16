@@ -75,4 +75,16 @@ The dataset obtained from NOAA provides daily weather summaries for the period b
 
 ## Milestone 4:  Tuning and Adjusting
 
+1. Data Preprocessing:
+   - Scaling
+   - Missing Values
+   - Station-based Grouping
+   - Time-based split
+2. Machine Learning Model:
+   - Random Forest (Still needs modifications)
+3. Interactive Weather Simulator:
+   - Prediction of Tomorrow’s Weather ((Still needs modifications)
+   - Can toggle between different weathers
+   - Dynamic visualization
+
 ## Milestone 5:  Final Presentation and Discussion
