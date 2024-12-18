@@ -48,14 +48,14 @@ The interactive interface was designed to combine prediction capabilities with a
    Example output:  
    **"Don't forget your umbrella: it's gonna be 0.3 mm of Precipitation 🌧️."**  
 
-![Rainy Forecast](./imgs/rainy.png.png)
+![Rainy Forecast](./imgs/rainy.png)
 
 - **Sunny Forecast**:  
    When precipitation is zero, a bright and cheerful animation greets the user.  
    Example output:  
    **"A beautiful sunny day!☀️."**  
 
-![Sunny Forecast](./imgs/sunny.png.png)
+![Sunny Forecast](./imgs/sunny.png)
 
 ---
 
